@@ -10,4 +10,4 @@ attached sql file for db
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+
